@@ -1,0 +1,1 @@
+(self.webpackChunk_varlet_ui=self.webpackChunk_varlet_ui||[]).push([[8902],{8902:(e,t,r)=>{"use strict";r.r(t),r.d(t,{default:()=>l});var u=r(7875),s={class:"varlet-site-doc"},a=(0,u.Wm)("h1",null,"Quickstart",-1);const l={render:function(e,t){return(0,u.wg)(),(0,u.j4)("div",s,[a])}}}}]);
